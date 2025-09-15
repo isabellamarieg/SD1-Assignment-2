@@ -1,3 +1,4 @@
+//always start with importing our scanner so we can use it!
 import java.util.Scanner;
 
 public class Main {
