@@ -7,7 +7,7 @@ public class Debug {
         if (var1 > 4){
             System.out.println("Var1 is greater than 4");
         }else{
-            System.out.println("Var1 is less than or equal to 4");
+            System.out.println("Var1 is less than or equal to 4"); //changed the statement
         }
 
         int var2 = 6;
@@ -17,13 +17,13 @@ public class Debug {
             System.out.println("Var2 is greater than 5");
         } else (var2 < 5){
             System.out.println("Var2 is less than 5");
-        } 
+        } // removed the last else
 
         int var3 = 5;
         if (var3 > 10){
             System.out.println("Var3 is greater than 10");
         } else {
-            System.out.println("Var3 is less than or equal to 10");
+            System.out.println("Var3 is less than or equal to 10"); //changed the statement
         }
 
 
